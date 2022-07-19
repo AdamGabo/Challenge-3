@@ -21,7 +21,7 @@ do {
   var lengthStr = window.prompt("Please enter a total character amount between (8 - 128) for your password");
   length = parseInt(lengthStr); 
 }
-while (length < 8 || length > 128)
+while ((length < 8 || length > 128) && Number.isInteger(length))
 console.log(length);
 
 window.alert("Please select the select the character types you would like to include in your password");
