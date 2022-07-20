@@ -1,4 +1,4 @@
-# Adam Gaboury - Challenge 3 Password Generated
+# Adam Gaboury - Challenge 3 Password Generator
 
 ## Contents of this File 
 ---------------------
